@@ -18,7 +18,7 @@ The website is a food and recipe platform that provides users with a wide variet
 
 <br><br>
 
-> ## Source Api
+> ## Base Api
 ``` 
 https://www.themealdb.com/api/json/v1/1/search.php?s= 
 ```
