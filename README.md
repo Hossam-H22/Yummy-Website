@@ -8,6 +8,16 @@ The website is a food and recipe platform that provides users with a wide variet
 
 <br><br>
 
+> ## Developed By
+- HTML
+- CSS
+- SCSS
+- Bootstrap
+- JavaScript
+- JQuery
+
+<br><br>
+
 > ## Source Api
 ``` 
 https://www.themealdb.com/api/json/v1/1/search.php?s= 
